@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   id="svg"
+   version="1.1"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   width="100%"
+   height="100%"
+   sodipodi:docname="nm-vpn-active-lock.svg">
+  <defs
+     id="defs81">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }
+</style>
+  </defs>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0.06666667"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     id="namedview32"
+     showgrid="true"
+     inkscape:zoom="7.9999995"
+     inkscape:cx="11.079503"
+     inkscape:cy="16.646898"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3046"
+       empspacing="4"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <g
+     id="g858">
+    <path
+       id="path828"
+       d="m 13.544663,13.103007 c -1.995956,1.729972 -2.066929,4.876947 -0.158531,7.029273 1.908398,2.152327 5.073251,2.494685 7.069207,0.764713 1.995955,-1.729973 2.066928,-4.876948 0.15853,-7.029274 -1.908398,-2.152326 -5.07325,-2.494685 -7.069206,-0.764712 z"
+       inkscape:connector-curvature="0"
+       style="fill:#3689e6;fill-opacity:1;stroke-width:0.21698357" />
+    <path
+       id="path830"
+       d="m 12.007119,16.392646 c 0.0303,1.197494 0.491431,2.424895 1.386063,3.433878 1.908398,2.152325 5.07325,2.494684 7.069206,0.764712 0.935521,-0.810852 1.449784,-1.932587 1.533827,-3.118018 -0.01182,1.296029 -0.525851,2.544012 -1.54072,3.423638 -1.995955,1.729973 -5.160958,1.387445 -7.069206,-0.764712 -0.970799,-1.094885 -1.425879,-2.44709 -1.37917,-3.739498 z"
+       inkscape:connector-curvature="0"
+       style="opacity:0.1;stroke-width:0.21698357" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path853"
+       d="m 15.620532,18.748399 c -1.217602,-0.327198 -1.627731,-1.834139 -0.740616,-2.721255 0.780151,-0.780151 2.029809,-0.598136 2.579406,0.375697 l 0.13305,0.235751 h 1.405398 1.405396 v 0.533891 0.533892 h -0.277623 -0.277624 v 0.555247 0.555248 h -0.533892 -0.533891 v -0.555248 -0.555247 h -0.59724 -0.59724 l -0.105492,0.208179 c -0.21707,0.428368 -0.677733,0.765881 -1.172439,0.859007 -0.295218,0.05557 -0.401195,0.05169 -0.687193,-0.02517 z m 0.725057,-1.122808 c 0.269041,-0.187002 0.315928,-0.559804 0.102334,-0.813647 -0.21268,-0.252755 -0.568272,-0.259814 -0.811965,-0.01612 -0.121632,0.121631 -0.144597,0.17523 -0.144597,0.337493 0,0.301516 0.151292,0.518694 0.40754,0.585017 0.125505,0.03248 0.32659,-0.0093 0.446688,-0.09274 z"
+       style="fill:#ffffff;stroke-width:0.04271134" />
+  </g>
+</svg>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="notification-gpm-battery-100-charging.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="3.2900306"
+     inkscape:cy="2.3348734"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1030.3622)">
+    <g
+       transform="matrix(0.16240158,0,0,0.16240158,1.4068617,974.61105)"
+       id="g1812">
+      <path
+         id="path1410"
+         d="m 105.87878,358.23395 c 27.03854,23.43536 28,66.06639 2.14757,95.22323 -25.852436,29.15684 -68.725636,33.79466 -95.764172,10.3593 -27.03855,-23.43536 -28,-66.06639 -2.14757,-95.22323 25.852426,-29.15684 68.725626,-33.79466 95.764172,-10.3593 z"
+         inkscape:connector-curvature="0"
+         style="fill:#68b723;fill-opacity:1;stroke-width:2.93940401" />
+      <path
+         id="path1412"
+         d="m 126.70737,402.79761 c -0.41047,16.22203 -6.65724,32.84923 -18.77652,46.51757 -25.852436,29.15685 -68.725636,33.79466 -95.764182,10.35931 -12.67318,-10.98434 -19.63974,-26.18011 -20.77824,-42.23873 0.16014,17.55686 7.12353,34.46287 20.87162,46.37887 27.038536,23.43536 69.913776,18.79524 95.764172,-10.3593 13.1511,-14.83205 19.31591,-33.14991 18.68315,-50.65772 z"
+         inkscape:connector-curvature="0"
+         style="opacity:0.1;stroke-width:2.93940401" />
+      <g
+         style="fill:#5ea520;fill-opacity:1"
+         id="g1786"
+         transform="matrix(6.1685657,0,0,6.1684529,-176.29264,230.87894)">
+        <path
+           sodipodi:nodetypes="ccccccc"
+           inkscape:connector-curvature="0"
+           id="path1782"
+           d="m 39.502299,23.075 -4.909005,7.363575 h 2.454435 V 36.575 l 4.909005,-7.36371 h -2.454435 z"
+           style="fill:#5ea520;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           class="ColorScheme-Text" />
+        <g
+           style="fill:#5ea520;fill-opacity:1"
+           transform="translate(27,24.3)"
+           id="g1784" />
+      </g>
+      <g
+         transform="matrix(6.1685657,0,0,6.1684529,-178.93839,228.23307)"
+         id="g1792"
+         style="fill:#ffffff;fill-opacity:1">
+        <path
+           class="ColorScheme-Text"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m 39.502299,23.075 -4.909005,7.363575 h 2.454435 V 36.575 l 4.909005,-7.36371 h -2.454435 z"
+           id="path1788"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc" />
+        <g
+           id="g1790"
+           transform="translate(27,24.3)"
+           style="fill:#ffffff;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
