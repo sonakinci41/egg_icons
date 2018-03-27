@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      inkscape:window-height="717"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46093749"
-     inkscape:cx="562.74102"
-     inkscape:cy="55.597322"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="452.94296"
+     inkscape:cy="214.2737"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -54,39 +54,36 @@
      inkscape:guide-bbox="true"
      inkscape:document-units="px" />
   <g
-     id="g869">
+     id="g839">
     <path
        style="fill:#3689e6;fill-opacity:1;stroke-width:11.10955811"
        inkscape:connector-curvature="0"
        d="M 432.91311,56.474001 C 535.10625,145.04859 538.73989,306.17371 441.03003,416.37279 343.32017,526.57187 181.27972,544.10064 79.08659,455.52605 -23.106167,366.95146 -26.740183,205.82634 70.970055,95.627261 168.67991,-14.57182 330.72036,-32.100589 432.91311,56.474001 Z"
        id="path27" />
     <path
-       style="opacity:0.1;stroke-width:11.10955811"
+       style="opacity:1;stroke-width:11.10955811;fill:#000000;fill-opacity:0.49019608"
        inkscape:connector-curvature="0"
        d="m 511.63538,224.90355 c -1.55112,61.31164 -25.16107,124.15461 -70.9663,175.81447 C 342.95922,510.91714 180.91878,528.44587 78.725645,439.87132 30.826936,398.35567 4.4968569,340.92287 0.19386476,280.22884 0.79896713,346.58551 27.11733,410.48221 79.078653,455.5191 181.27141,544.09365 343.31979,526.55622 441.02209,416.3658 490.72704,360.30769 514.02707,291.07483 511.63538,224.90355 Z"
        id="path51" />
-    <rect
-       style="fill:#317ccf;fill-opacity:1;stroke:none;stroke-width:2.04294086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="rect864"
-       width="133.23912"
-       height="33.30978"
-       x="199.49973"
-       y="159.9646" />
+       d="M 209.5 169.96484 L 209.5 203.27539 L 259.46484 203.27539 L 259.46484 169.96484 L 209.5 169.96484 z M 292.77539 169.96484 L 292.77539 203.27539 L 342.73828 203.27539 L 342.73828 169.96484 L 292.77539 169.96484 z "
+       style="fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:2.04294086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       y="-282.77435"
-       x="109.99994"
+       y="-292.77463"
+       x="120.00012"
        height="33.30978"
        width="133.23912"
        id="rect866"
-       style="fill:#317ccf;fill-opacity:1;stroke:none;stroke-width:2.04294086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:2.04294086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="rotate(90)" />
     <rect
-       y="388.69003"
-       x="199.49973"
+       y="398.69022"
+       x="209.5"
        height="33.30978"
        width="133.23912"
        id="rect868"
-       style="fill:#317ccf;fill-opacity:1;stroke:none;stroke-width:2.04294086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:2.04294086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="149.96468"
        x="189.50003"
