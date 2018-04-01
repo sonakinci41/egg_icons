@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.60666665"
-     inkscape:cx="290.4057"
+     inkscape:cx="11.834264"
      inkscape:cy="229.91697"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -53,8 +53,7 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <g
-       transform="translate(-4.1235324e-7,3.7976451e-6)"
-       id="g859">
+       id="g834">
       <path
          style="fill:#68b723;fill-opacity:1;stroke-width:11.10955811"
          inkscape:connector-curvature="0"
@@ -62,23 +61,23 @@
          id="path937" />
       <path
          style="fill:#3a9104;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 8.3652372,882.36219 C 19.949338,925.51392 43.551548,965.08853 79.085938,995.88759 181.27884,1084.4622 343.31934,1066.9343 441.02929,956.73524 461.3803,933.783 477.31887,908.61717 488.90233,882.36219 Z"
+         d="M 8.3652368,882.36219 C 19.949338,925.51392 43.551548,965.08853 79.085938,995.88759 181.27884,1084.4622 343.31934,1066.9343 441.02929,956.73524 461.3803,933.783 477.31887,908.61717 488.90233,882.36219 Z"
          id="path939"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csscc" />
       <path
-         style="opacity:0.1;stroke-width:11.10955811"
+         style="opacity:1;stroke-width:11.10955811;fill:#000000;fill-opacity:0.49019608"
          inkscape:connector-curvature="0"
-         d="M 511.63547,765.2657 C 510.08409,826.57734 486.47425,889.4203 440.6691,941.08017 342.95915,1051.2793 180.9187,1068.808 78.725758,980.23347 30.827128,938.71782 4.4968172,881.28502 0.19382718,820.59099 0.79907718,886.94766 27.117408,950.84436 79.078688,995.88129 181.2716,1084.4558 343.31975,1066.9184 441.02199,956.72795 490.72694,900.66984 514.02701,831.43698 511.63547,765.2657 Z"
+         d="M 511.63547,765.2657 C 510.08409,826.57734 486.47425,889.4203 440.6691,941.08017 342.95915,1051.2793 180.9187,1068.808 78.725758,980.23347 30.827128,938.71782 4.4968168,881.28502 0.19382677,820.59099 0.79907677,886.94766 27.117408,950.84436 79.078688,995.88129 181.2716,1084.4558 343.31975,1066.9184 441.02199,956.72795 490.72694,900.66984 514.02701,831.43698 511.63547,765.2657 Z"
          id="path941" />
       <g
          aria-label="C"
-         transform="matrix(9.1014969,0,0,9.1014969,-1363.7558,-508.61149)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5ea520;fill-opacity:1;stroke:none"
+         transform="matrix(9.1014969,0,0,9.1014969,-1353.7558,-498.61149)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.49019608;stroke:none"
          id="g850">
         <path
            d="m 188.04687,130.4463 q -1.25,0 -1.875,-1.46485 -0.54687,-1.25 -1.01562,-1.52344 -0.41016,-0.21484 -2.03125,-0.21484 -2.83203,0 -6.28906,4.33594 -4.6875,5.82031 -4.6875,11.03515 0,2.51954 1.62109,4.33594 1.66016,1.875 4.00391,1.875 2.01172,0 4.04297,-1.03515 1.13281,-0.58594 3.47656,-2.30469 1.11328,-0.82031 1.67969,-0.82031 0.83984,0 1.40625,0.64453 0.5664,0.625 0.5664,1.40625 0,0.8789 -0.74219,1.54297 -5.15625,4.57031 -10.42968,4.57031 -4.04297,0 -6.83594,-3.10547 -2.69531,-3.00781 -2.69531,-7.10938 0,-6.62109 5.54687,-13.57421 4.62891,-5.80079 9.33594,-5.80079 0.95703,0 1.71875,0.0977 0.76172,0.0781 1.34766,0.27344 0.68359,-0.9961 1.77734,-0.9961 1.34766,0 1.69922,1.77735 0.3125,1.58203 0.3125,3.88672 0,0.80078 -0.42969,1.40625 -0.52734,0.76172 -1.50391,0.76172 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#5ea520;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#000000;fill-opacity:0.49019608"
            id="path848"
            inkscape:connector-curvature="0" />
       </g>
