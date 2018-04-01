@@ -33,9 +33,9 @@
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="717"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -56,7 +56,7 @@
      transform="translate(0,-1030.3622)">
     <g
        transform="matrix(0.16240158,0,0,0.16240158,-133.11302,974.28812)"
-       id="g1390">
+       id="g1551">
       <path
          style="fill:#8a715e;fill-opacity:1;stroke-width:2.93940425"
          inkscape:connector-curvature="0"
@@ -68,23 +68,23 @@
          d="m 833.20802,458.17038 c 2.19345,2.71642 4.64735,5.27434 7.3706,7.63468 26.17267,22.68488 67.18126,19.06487 93.22843,-7.63468 z"
          id="path1320" />
       <path
-         style="opacity:0.1;stroke-width:2.93940425"
+         style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:2.93940425"
          inkscape:connector-curvature="0"
          d="m 955.02386,404.78613 c -0.4104,16.22203 -6.6572,32.84923 -18.77649,46.51757 -25.85244,29.15685 -68.72564,33.79466 -95.76419,10.35931 -12.67318,-10.98433 -19.63974,-26.18011 -20.77824,-42.23872 0.16014,17.55685 7.12353,34.46286 20.87162,46.37886 27.03854,23.43536 69.91378,18.79524 95.76418,-10.3593 13.15112,-14.83205 19.31592,-33.14991 18.68312,-50.65772 z"
          id="path1322" />
       <g
-         style="fill:#7c6655;fill-opacity:1"
+         style="fill:#000000;fill-opacity:0.49019608"
          id="g1355"
-         transform="matrix(6.1685657,0,0,6.1684529,652.02436,232.86694)">
+         transform="matrix(6.1685657,0,0,6.1684529,654.67013,235.51277)">
         <path
            sodipodi:nodetypes="ccccccc"
            inkscape:connector-curvature="0"
            id="path1351"
            d="m 39.502299,23.075 -4.909005,7.363575 h 2.454435 V 36.575 l 4.909005,-7.36371 h -2.454435 z"
-           style="fill:#7c6655;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#000000;fill-opacity:0.49019608;fill-rule:evenodd;stroke:none"
            class="ColorScheme-Text" />
         <g
-           style="fill:#7c6655;fill-opacity:1"
+           style="fill:#000000;fill-opacity:0.49019608"
            transform="translate(27,24.3)"
            id="g1353" />
       </g>
