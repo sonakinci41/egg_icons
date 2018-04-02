@@ -33,9 +33,9 @@
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="717"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -59,43 +59,38 @@
        transform="matrix(0,0.74074072,-0.74074072,0,14.613593,1032.8981)" />
     <g
        transform="matrix(0.16240157,0,0,0.16240157,-105.04556,973.42051)"
-       id="g1690">
+       id="g1540">
       <path
          id="path1492"
          d="m 761.36736,365.56482 c 27.03854,23.43536 28,66.06639 2.14756,95.22324 -25.85243,29.15684 -68.72563,33.79466 -95.76416,10.3593 -27.03856,-23.43536 -28.00001,-66.0664 -2.14758,-95.22324 25.85243,-29.15684 68.72563,-33.79466 95.76418,-10.3593 z"
          inkscape:connector-curvature="0"
          style="fill:#8a715e;fill-opacity:1;stroke-width:2.93940425" />
-      <g
-         style="fill:#7c6655;fill-opacity:1"
-         id="g1574"
-         transform="matrix(6.1685657,0,0,6.1684529,479.19636,238.20894)">
-        <path
-           sodipodi:nodetypes="ccccccc"
-           inkscape:connector-curvature="0"
-           id="path1570"
-           d="m 39.502299,23.075 -4.909005,7.363575 h 2.454435 V 36.575 l 4.909005,-7.36371 h -2.454435 z"
-           style="fill:#7c6655;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           class="ColorScheme-Text" />
-        <g
-           style="fill:#7c6655;fill-opacity:1"
-           transform="translate(27,24.3)"
-           id="g1572" />
-      </g>
       <path
          inkscape:connector-curvature="0"
          style="fill:#f9c440;fill-opacity:1;stroke:none;stroke-width:0.51307881;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 648.99309,440.93557 c 3.04798,11.48503 9.30783,22.02119 18.75751,30.2116 27.03853,23.43534 69.91172,18.79777 95.76416,-10.35907 5.42967,-6.12365 9.67198,-12.84282 12.74292,-19.85253 z"
          id="path1494" />
+      <g
+         style="fill:#000000;fill-opacity:0.49019608"
+         id="g1574"
+         transform="matrix(6.1685657,0,0,6.1684529,481.84218,240.85471)">
+        <path
+           sodipodi:nodetypes="ccccccc"
+           inkscape:connector-curvature="0"
+           id="path1570"
+           d="m 39.502299,23.075 -4.909005,7.363575 h 2.454435 V 36.575 l 4.909005,-7.36371 h -2.454435 z"
+           style="fill:#000000;fill-opacity:0.49019608;fill-rule:evenodd;stroke:none"
+           class="ColorScheme-Text" />
+        <g
+           style="fill:#000000;fill-opacity:0.49019608"
+           transform="translate(27,24.3)"
+           id="g1572" />
+      </g>
       <path
          id="path1496"
          d="m 782.19594,410.12848 c -0.41047,16.22203 -6.65724,32.84923 -18.77651,46.51757 -25.85245,29.15685 -68.72565,33.79466 -95.7642,10.35931 -12.67318,-10.98433 -19.63973,-26.18011 -20.77823,-42.23872 0.16014,17.55685 7.12352,34.46286 20.87161,46.37886 27.03854,23.43536 69.91379,18.79524 95.76419,-10.3593 13.1511,-14.83205 19.31591,-33.14991 18.68314,-50.65772 z"
          inkscape:connector-curvature="0"
-         style="opacity:0.1;stroke-width:2.93940425" />
-      <path
-         id="path1592"
-         d="m 707.72786,440.93538 v 22.88492 l 15.25643,-22.88492 z"
-         style="fill:#e1b13a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.16850901"
-         inkscape:connector-curvature="0" />
+         style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:2.93940425" />
       <g
          transform="matrix(6.1685657,0,0,6.1684529,476.55061,235.56307)"
          id="g1580"
