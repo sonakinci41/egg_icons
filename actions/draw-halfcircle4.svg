@@ -1,13 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="draw-halfcircle4.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.61458333"
+     inkscape:cx="60.306578"
+     inkscape:cy="243.86176"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#4d4d4d;
       }
       </style>
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 11 L 4 12 C 4 16.432 7.568 20 12 20 C 16.432 20 20 16.432 20 12 L 20 11 L 4 11 z M 5 12 L 19 12 C 19 15.878 15.878 19 12 19 C 8.122 19 5 15.878 5 12 z "
-     class="ColorScheme-Text"
-     />
+  <g
+     id="g839"
+     transform="matrix(0.125,0,0,0.125,-2.5659518e-7,56.000001)">
+    <path
+       style="fill:#3689e6;fill-opacity:1;stroke-width:11.10955811"
+       inkscape:connector-curvature="0"
+       d="m 432.91327,-391.52602 c 102.19291,88.57459 105.82677,249.6997 8.1168,359.898785 C 343.3201,78.571842 181.27964,96.100609 79.086724,7.52602 -23.106183,-81.048565 -26.740043,-242.17367 70.969925,-352.37276 168.67989,-462.57184 330.72036,-480.1006 432.91327,-391.52602 Z"
+       id="path27" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:11.10955811"
+       inkscape:connector-curvature="0"
+       d="m 511.63551,-223.09647 c -1.55139,61.31164 -25.16123,124.154595 -70.96639,175.814467 C 342.95915,62.917114 180.91868,80.445842 78.725775,-8.128708 30.827126,-49.644355 4.4968266,-107.07715 0.19382659,-167.77118 0.79908657,-101.41452 27.117416,-37.517819 79.078684,7.51906 181.27159,96.093617 343.31975,78.556194 441.02202,-31.634227 490.72696,-87.692335 514.02704,-156.92519 511.63551,-223.09647 Z"
+       id="path51" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:4.46155357;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path840"
+       sodipodi:type="arc"
+       sodipodi:cx="276"
+       sodipodi:cy="-172"
+       sodipodi:rx="156"
+       sodipodi:ry="156"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       d="m 432,-172 a 156,156 0 0 1 -78,135.099964 156,156 0 0 1 -156,-3e-6 156,156 0 0 1 -78,-135.099971 l 156,1e-5 z" />
+    <path
+       d="m 412,-192 a 156,156 0 0 1 -78,135.099964 156,156 0 0 1 -156,-3e-6 156,156 0 0 1 -78,-135.099971 l 156,1e-5 z"
+       sodipodi:end="3.1415927"
+       sodipodi:start="0"
+       sodipodi:ry="156"
+       sodipodi:rx="156"
+       sodipodi:cy="-192"
+       sodipodi:cx="256"
+       sodipodi:type="arc"
+       id="path30"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.46155357;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
 </svg>
