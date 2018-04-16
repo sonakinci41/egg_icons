@@ -1,13 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="filename-underscore-amarok.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="17.046006"
+     inkscape:cy="13.94501"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#4d4d4d;
       }
       </style>
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 3 12 L 3 13 L 13 13 L 13 12 L 3 12 z "
-     class="ColorScheme-Text"
-     />
+  <g
+     id="g841"
+     transform="translate(0,48)">
+    <path
+       style="fill:#3689e6;fill-opacity:1;stroke-width:1.38869488"
+       inkscape:connector-curvature="0"
+       d="m 54.114156,-40.940758 c 12.77412,11.071822 13.22835,31.2124665 1.0146,44.9873534 C 42.915006,17.82148 22.659955,20.012576 9.8858447,8.9407514 -2.8882755,-2.1310716 -3.3425055,-22.271717 8.8712447,-36.046601 21.084985,-49.821487 41.340046,-52.012582 54.114156,-40.940758 Z"
+       id="path850" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:1.38869488"
+       inkscape:connector-curvature="0"
+       d="m 63.954436,-19.887062 c -0.19392,7.663951 -3.14515,15.5193214 -8.87079,21.9768054 C 42.869886,15.864634 22.614835,18.055725 9.8407247,6.9839064 3.8533945,1.7944544 0.5621045,-5.3846506 0.0242245,-12.971399 c 0.0757,8.2945784 3.36545,16.2816704 9.8606102,21.9112754 12.7741103,11.0718246 33.0301313,8.8796426 45.2429213,-4.894156 6.21312,-7.007268 9.12562,-15.6613764 8.82668,-23.9327824 z"
+       id="path852" />
+    <rect
+       ry="3.0023124"
+       y="-0.0046252147"
+       x="15"
+       height="6.0046248"
+       width="39.08284"
+       id="rect840"
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:0.04724409;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.04724409;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect829"
+       width="39.08284"
+       height="6.0046248"
+       x="12.5"
+       y="-2.5046253"
+       ry="3.0023124" />
+  </g>
 </svg>
