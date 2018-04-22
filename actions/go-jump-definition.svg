@@ -1,13 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="go-jump-definition.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.61458333"
+     inkscape:cx="378.46069"
+     inkscape:cy="201.99838"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#4d4d4d;
       }
       </style>
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 9 4 L 4 6 L 10 8 L 15 6 L 9 4 z M 4 7 L 4 13 L 9 15 L 9 9 L 4 7 z M 15 7 L 10 9 L 10 15 L 15 13 L 15 7 z M 18 7 L 17 8 L 16 9 L 18 11 L 18 9.7148438 C 18.624415 10.657919 19 11.778652 19 13 C 19 16.324 16.324 19 13 19 L 13 20 C 16.878 20 20 16.878 20 13 C 20 11.090887 19.232299 9.3761254 18 8.1171875 L 18 7 z "
-     class="ColorScheme-Text"
-     />
+  <g
+     id="g843"
+     transform="matrix(0.125,0,0,0.125,2.8118476e-7,56)">
+    <path
+       id="path850"
+       d="m 432.91326,-391.52606 c 102.19291,88.57458 105.82678,249.69973 8.1168,359.898824 C 343.32005,78.571839 181.27961,96.100609 79.086739,7.5260194 -23.106204,-81.048566 -26.740031,-242.17373 70.969939,-352.3728 168.67988,-462.57189 330.72032,-480.10065 432.91326,-391.52606 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#3689e6;fill-opacity:1;stroke-width:11.10955906" />
+    <path
+       id="path852"
+       d="m 511.6355,-223.09649 c -1.55139,61.31161 -25.16123,124.154574 -70.96638,175.814444 C 342.95911,62.917069 180.91867,80.445799 78.725759,-8.1287456 30.827126,-49.644356 4.4968187,-107.0772 0.19382668,-167.77119 0.79908068,-101.41456 27.117406,-37.517826 79.078689,7.5190194 181.27156,96.093609 343.31971,78.556149 441.02201,-31.634236 490.72696,-87.692376 514.02703,-156.92524 511.6355,-223.09649 Z"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:11.10955906" />
+    <path
+       style="color:#4d4d4d;fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:19.5"
+       d="m 217.5,-328 -97.5,39 117,39 97.5,-39 z m -97.5,58.5 v 117 l 97.5,39 v -117 z m 214.5,0 -97.5,39 v 117 l 97.5,-39 z m 58.5,0 -19.5,19.5 -19.5,19.5 39,39 v -25.06055 c 12.17609,18.38997 19.5,40.24426 19.5,64.06055 0,64.818 -52.182,117 -117,117 V -16 c 75.621,0 136.5,-60.879 136.5,-136.5 0,-37.2277 -14.97017,-70.66555 -39,-95.21484 z"
+       class="ColorScheme-Text"
+       id="path837"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4"
+       class="ColorScheme-Text"
+       d="m 197.5,-348 -97.5,39 117,39 97.5,-39 z m -97.5,58.5 v 117 l 97.5,39 v -117 z m 214.5,0 -97.5,39 v 117 l 97.5,-39 z m 58.5,0 -19.5,19.5 -19.5,19.5 39,39 v -25.06055 c 12.17609,18.38997 19.5,40.24426 19.5,64.06055 0,64.818 -52.182,117 -117,117 V -36 c 75.621,0 136.5,-60.879 136.5,-136.5 0,-37.2277 -14.97017,-70.66555 -39,-95.21484 z"
+       style="color:#4d4d4d;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:19.5" />
+  </g>
 </svg>
