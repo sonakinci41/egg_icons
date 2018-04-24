@@ -1,6 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="irc-channel-active.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="3.4766083"
+     inkscape:cx="1.3611877"
+     inkscape:cy="27.12839"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#4d4d4d;
       }
@@ -9,14 +59,78 @@
       }
       </style>
   </defs>
-  <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 8 4 L 8 8 L 4 8 L 4 9 L 8 9 L 8 15 L 4 15 L 4 16 L 8 16 L 8 20 L 9 20 L 9 16 L 12 16 L 12 15 L 9 15 L 9 9 L 15 9 L 15 12 L 16 12 L 16 9 L 20 9 L 20 8 L 16 8 L 16 4 L 15 4 L 15 8 L 9 8 L 9 4 L 8 4 z "
-     class="ColorScheme-Text"
-     />
-  <path
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     class="ColorScheme-PositiveText"
-     d="M 16.5 13 C 14.561 13 13 14.561 13 16.5 C 13 18.439 14.561 20 16.5 20 C 18.439 20 20 18.439 20 16.5 C 20 14.561 18.439 13 16.5 13 z "
-      />
+  <g
+     id="g897"
+     transform="matrix(0.125,0,0,0.125,5.0548841e-6,56.000016)">
+    <path
+       id="path927"
+       d="m 432.91328,-391.526 c 102.19291,88.57459 105.82677,249.6997 8.1168,359.89878 C 343.32011,78.571858 181.27964,96.100627 79.086731,7.5260391 -23.106175,-81.048548 -26.740039,-242.17366 70.969931,-352.37274 168.6799,-462.57182 330.72038,-480.10059 432.91328,-391.526 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#68b723;fill-opacity:1;stroke-width:11.10955715" />
+    <path
+       id="path929"
+       d="m 511.63551,-223.09646 c -1.55138,61.31165 -25.16122,124.154608 -70.96637,175.814475 C 342.95917,62.917131 180.91869,80.445862 78.725786,-8.1286882 30.827116,-49.644341 4.4968482,-107.07713 0.19381835,-167.77117 0.79907189,-101.41449 27.117434,-37.517803 79.07868,7.5190848 181.27159,96.093635 343.31973,78.556211 441.02203,-31.634212 490.72698,-87.692315 514.02704,-156.92517 511.63551,-223.09646 Z"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:11.10955715" />
+    <g
+       style="fill:#000000;fill-opacity:0.49019608"
+       transform="translate(20,20)"
+       id="g883">
+      <rect
+         ry="20"
+         y="-270"
+         x="100"
+         height="40"
+         width="312"
+         id="rect875"
+         style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:24.60684395;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:24.60684395;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect877"
+         width="312"
+         height="40"
+         x="100"
+         y="-154"
+         ry="20" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path879"
+         d="m 198,-348 c -11.08,0 -20,8.92 -20,20 v 58 h 40 v -58 c 0,-11.08 -8.92,-20 -20,-20 z m -20,118 v 76 h 40 v -76 z m 0,116 v 58 c 0,11.08 8.92,20 20,20 11.08,0 20,-8.92 20,-20 v -58 z"
+         style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:24.60684395;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path881"
+         d="m 314,-348 c -11.08,0 -20,8.92 -20,20 v 58 h 40 v -58 c 0,-11.08 -8.92,-20 -20,-20 z m -20,118 v 76 h 40 v -76 z m 0,116 v 58 c 0,11.08 8.92,20 20,20 11.08,0 20,-8.92 20,-20 v -58 z"
+         style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:24.60684395;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g873">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:24.60684395;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect849"
+         width="312"
+         height="40"
+         x="100"
+         y="-270"
+         ry="20" />
+      <rect
+         ry="20"
+         y="-154"
+         x="100"
+         height="40"
+         width="312"
+         id="rect851"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:24.60684395;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:24.60684395;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 198,-348 c -11.08,0 -20,8.92 -20,20 v 58 h 40 v -58 c 0,-11.08 -8.92,-20 -20,-20 z m -20,118 v 76 h 40 v -76 z m 0,116 v 58 c 0,11.08 8.92,20 20,20 11.08,0 20,-8.92 20,-20 v -58 z"
+         id="rect853"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:24.60684395;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 314,-348 c -11.08,0 -20,8.92 -20,20 v 58 h 40 v -58 c 0,-11.08 -8.92,-20 -20,-20 z m -20,118 v 76 h 40 v -76 z m 0,116 v 58 c 0,11.08 8.92,20 20,20 11.08,0 20,-8.92 20,-20 v -58 z"
+         id="rect855"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
 </svg>
