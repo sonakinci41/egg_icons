@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 500 500"
+   viewBox="0 0 512 512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   width="100%"
-   height="100%"
-   sodipodi:docname="bazaar-explorer.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   width="512"
+   height="512"
+   sodipodi:docname="bazaar.svg">
   <metadata
      id="metadata76">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,16 +36,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="717"
      id="namedview74"
      showgrid="false"
-     inkscape:zoom="0.30729167"
-     inkscape:cx="-124.52316"
-     inkscape:cy="299.59286"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="234.97221"
+     inkscape:cy="579.60078"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     units="px" />
   <defs
      id="defs4">
     <linearGradient
@@ -53,7 +54,7 @@
        x1="1"
        x2="47"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+       gradientTransform="rotate(-90,23.999998,24)">
       <stop
          stop-color="#8358b4"
          stop-opacity="1"
@@ -93,24 +94,30 @@
   </defs>
   <g
      id="g33"
-     transform="translate(0,452)" />
+     transform="translate(0,255952)" />
   <g
-     id="g4147">
-    <rect
-       transform="matrix(0.68145507,0.73185996,-0.73185996,0.68145507,0,0)"
-       ry="19.279545"
-       rx="21.380377"
-       y="-168.0723"
-       x="197.85548"
-       height="310.8826"
-       width="310.8826"
-       id="rect2988"
-       style="fill:#ffcc00;fill-opacity:1;stroke:#394050;stroke-width:27.38301277;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     id="g850">
+    <path
+       style="fill:#f9c440;fill-opacity:1;stroke-width:11.10955811"
+       inkscape:connector-curvature="0"
+       d="m 432.91321,56.47396 c 102.19296,88.57472 105.82688,249.69983 8.1168,359.89887 C 343.31994,526.5719 181.27962,544.1005 79.086662,455.52611 -23.106295,366.95139 -26.739895,205.82627 70.969862,95.62724 168.67994,-14.5718 330.72026,-32.10076 432.91321,56.47396 Z"
+       id="path52" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:11.10955811"
+       inkscape:connector-curvature="0"
+       d="m 511.63545,224.90339 c -1.552,61.31168 -25.16128,124.15488 -70.9664,175.81472 C 342.9593,510.9172 180.91866,528.4458 78.725702,439.87139 30.827143,398.35555 4.4969034,340.92291 0.19386359,280.22883 0.79866357,346.58563 27.117384,410.48227 79.078662,455.51907 181.27162,544.0938 343.31962,526.5562 441.02201,416.36579 c 49.70496,-56.05824 73.00512,-125.29088 70.61344,-191.4624 z"
+       id="path54" />
+    <path
+       style="fill:#000000;fill-opacity:0.49019608;fill-rule:evenodd;stroke:none;stroke-width:1.02221322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 216.36992,432 h 96.36993 v -80.61655 l 37.30749,53.78121 33.83455,-34.93941 -71.14204,-99.45835 v -37.62105 h 48.36993 L 267.24211,120 168,233.14585 h 48.36992 z"
+       id="path844"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
     <path
        sodipodi:nodetypes="cccccccccccc"
        inkscape:connector-curvature="0"
        id="path4156"
-       d="m 226.17394,394.20438 47.31883,0 0,-78.86472 46.22439,41.80407 23.3717,-23.37171 -69.59609,-97.29707 0,-36.80353 47.31883,0 -68.34942,-110.687133 -73.60706,110.687133 47.31882,0 z"
-       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="m 196.36992,412 h 96.36993 v -80.61655 l 37.30749,53.78121 33.83455,-34.93941 -71.14204,-99.45835 v -37.62105 h 48.36993 L 247.24211,100 148,213.14585 h 48.36992 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02221322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
