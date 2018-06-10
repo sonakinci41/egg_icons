@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    width="512"
    height="512"
    sodipodi:docname="cinnamon-power-manager.svg"
@@ -40,11 +40,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="713"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.65186405"
-     inkscape:cx="196.18494"
+     inkscape:cx="91.101679"
      inkscape:cy="226.48433"
      inkscape:window-x="0"
      inkscape:window-y="24"
@@ -54,44 +54,49 @@
      inkscape:guide-bbox="true"
      inkscape:document-units="px" />
   <g
-     id="g4137">
+     id="g1157"
+     transform="matrix(3.7795276,0,0,3.7795276,1217.426,-1335.5726)">
     <path
-       sodipodi:nodetypes="sscsssssssscsss"
+       style="fill:#3689e6;fill-opacity:1;stroke-width:2.93940401"
        inkscape:connector-curvature="0"
-       id="rect3009"
-       d="m 212.50811,36.999997 c -11.36674,0 -20.52025,9.148258 -20.52025,20.514996 l 0,26.95911 -29.33493,0 C 147.3338,84.474103 135,96.807888 135,112.12703 l 0,347.22004 C 135,474.66622 147.3338,487 162.65293,487 l 175.8886,0 c 15.31914,0 27.65292,-12.33378 27.65292,-27.65293 l 0,-347.22004 c 0,-15.319142 -12.33378,-27.652927 -27.65292,-27.652927 l -28.8934,0 0,-26.95911 c 0,-11.366738 -9.14826,-20.514996 -20.515,-20.514996 z"
-       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-    <rect
-       ry="16.071697"
-       y="379.18866"
-       x="165"
-       height="79.811325"
-       width="168.75903"
-       id="rect3751"
-       style="fill:#45d03f;fill-opacity:1;stroke:none" />
-    <rect
-       ry="16.071697"
-       y="291.20911"
-       x="165"
-       height="79.811325"
-       width="168.75903"
-       id="rect3751-3"
-       style="fill:#45d03f;fill-opacity:1;stroke:none" />
-    <rect
-       ry="16.071697"
-       y="202.81477"
-       x="165"
-       height="79.811325"
-       width="168.75903"
-       id="rect3751-6"
-       style="fill:#45d03f;fill-opacity:1;stroke:none" />
-    <rect
-       ry="16.071697"
-       y="115.23899"
-       x="165"
-       height="79.811325"
-       width="168.75903"
-       id="rect3751-6-7"
-       style="fill:#45d03f;fill-opacity:1;stroke:none" />
+       d="m -207.56899,368.3123 c 27.03854,23.43536 28,66.06639 2.14757,95.22323 -25.85244,29.15684 -68.72564,33.79466 -95.76417,10.3593 -27.03855,-23.43536 -28,-66.06639 -2.14757,-95.22323 25.85242,-29.15684 68.72562,-33.79466 95.76417,-10.3593 z"
+       id="path1123" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:2.93940401"
+       inkscape:connector-curvature="0"
+       d="m -186.7404,412.87596 c -0.41047,16.22203 -6.65724,32.84923 -18.77652,46.51757 -25.85244,29.15685 -68.72564,33.79466 -95.76418,10.35931 -12.67318,-10.98434 -19.63974,-26.18011 -20.77824,-42.23873 0.16014,17.55686 7.12353,34.46287 20.87162,46.37887 27.03853,23.43536 69.91377,18.79524 95.76417,-10.3593 13.1511,-14.83205 19.31591,-33.14991 18.68315,-50.65772 z"
+       id="path1125" />
+    <g
+       transform="matrix(6.1685657,0,0,6.1684529,-487.09466,243.60304)"
+       id="g1131"
+       style="fill:#000000;fill-opacity:0.49019608">
+      <path
+         class="ColorScheme-Text"
+         style="fill:#000000;fill-opacity:0.49019608;fill-rule:evenodd;stroke:none"
+         d="m 39.502299,23.075 -4.909005,7.363575 h 2.454435 V 36.575 l 4.909005,-7.36371 h -2.454435 z"
+         id="path1127"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <g
+         id="g1129"
+         transform="translate(27,24.3)"
+         style="fill:#000000;fill-opacity:0.49019608" />
+    </g>
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g1137"
+       transform="matrix(6.1685657,0,0,6.1684529,-492.38616,238.31142)">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path1133"
+         d="m 39.502299,23.075 -4.909005,7.363575 h 2.454435 V 36.575 l 4.909005,-7.36371 h -2.454435 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         class="ColorScheme-Text" />
+      <g
+         style="fill:#ffffff;fill-opacity:1"
+         transform="translate(27,24.3)"
+         id="g1135" />
+    </g>
   </g>
 </svg>
