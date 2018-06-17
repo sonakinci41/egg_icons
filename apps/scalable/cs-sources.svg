@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    width="512"
    height="512"
    sodipodi:docname="cs-sources.svg"
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,54 +48,54 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="713"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.53309222"
-     inkscape:cx="154.26066"
-     inkscape:cy="184.4165"
+     inkscape:zoom="0.094238281"
+     inkscape:cx="-868.34259"
+     inkscape:cy="200.94742"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3797"
+     inkscape:current-layer="svg2"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:document-units="px" />
-  <path
-     inkscape:export-ydpi="48.18"
-     inkscape:export-xdpi="48.18"
-     inkscape:export-filename="/home/rafael/workspace/logo-osi/3/png/logo396x412.png"
-     id="path3773"
-     d="m 250,268.21598 m 26.87999,70.02002 a 75.000001,75.000001 0 1 0 -53.75999,0 L 172.6,469.87599 a 216,216 0 1 1 154.79999,0 z"
-     inkscape:connector-curvature="0"
-     style="text-anchor:middle;fill:#45d03f;stroke:none;stroke-width:18;stroke-linejoin:round;display:inline;fill-opacity:1;stroke-opacity:1" />
   <g
-     style="display:inline"
-     id="g3797"
-     transform="matrix(2.4410197,0,0,2.4410197,898.88675,2142.7702)"
-     inkscape:export-filename="/home/rafael/workspace/logo-osi/3/png/logo396x412.png"
-     inkscape:export-xdpi="48.18"
-     inkscape:export-ydpi="48.18">
+     id="g845">
+    <g
+       inkscape:export-ydpi="48.18"
+       inkscape:export-xdpi="48.18"
+       inkscape:export-filename="/home/rafael/workspace/logo-osi/3/png/logo396x412.png"
+       transform="matrix(2.4410197,0,0,2.4410197,898.88675,2142.7702)"
+       id="g3797"
+       style="display:inline">
+      <path
+         id="path943"
+         d="m -190.89295,-854.68227 c 41.86484,36.2859 43.35351,102.29321 3.32516,147.4379 -40.02835,45.14469 -106.41063,52.32561 -148.27547,16.03972 -41.86486,-36.2859 -43.35351,-102.29321 -3.32517,-147.4379 40.02834,-45.14469 106.41062,-52.32562 148.27548,-16.03972 z"
+         inkscape:connector-curvature="0"
+         style="fill:#68b723;fill-opacity:1;stroke-width:4.5511961" />
+      <path
+         id="path945"
+         d="m -158.64322,-785.68259 c -0.63555,25.11721 -10.30767,50.86177 -29.07243,72.025 -40.02836,45.14471 -106.41064,52.32561 -148.27549,16.03973 -19.62239,-17.00749 -30.40899,-40.5357 -32.17178,-65.3999 0.24796,27.18398 11.02965,53.36023 32.31636,71.81024 41.86484,36.2859 108.25028,29.10142 148.27548,-16.03971 20.36237,-22.96505 29.90759,-51.32732 28.92786,-78.43536 z"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:4.5511961" />
+    </g>
     <path
-       transform="matrix(0.33912491,0,0,0.33852655,-402.53969,-908.3754)"
-       d="m 669.28572,646.64789 c 0,13.01813 -10.55329,23.57141 -23.57143,23.57141 -13.01814,0 -23.57142,-10.55328 -23.57142,-23.57141 0,-13.01813 10.55328,-23.57141 23.57142,-23.57141 13.01814,0 23.57143,10.55328 23.57143,23.57141 z"
-       sodipodi:ry="23.571411"
-       sodipodi:rx="23.571428"
-       sodipodi:cy="646.64789"
-       sodipodi:cx="645.71429"
-       id="path3015"
-       style="fill:none;stroke:#394050;stroke-width:6.66513871999999985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:type="arc" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text3793"
-       y="-685.33014"
-       x="-188.29698"
-       style="font-size:12.65519523999999940px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#394050;fill-opacity:1;stroke:none;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol Bold"
-       xml:space="preserve"><tspan
-         y="-685.33014"
-         x="-188.29698"
-         id="tspan3795"
-         sodipodi:role="line">R</tspan></text>
+       inkscape:export-ydpi="48.18"
+       inkscape:export-xdpi="48.18"
+       inkscape:export-filename="/home/rafael/workspace/logo-osi/3/png/logo396x412.png"
+       id="path30"
+       d="m 276,280.35666 m 19.41332,50.57001 a 54.166667,54.166667 0 1 0 -38.82664,0 L 220.1,426 a 156,156 0 1 1 111.79999,0 z"
+       inkscape:connector-curvature="0"
+       style="text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:13;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       style="text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:13;stroke-linejoin:round;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 256,260.35666 m 19.41332,50.57001 a 54.166667,54.166667 0 1 0 -38.82664,0 L 200.1,406 a 156,156 0 1 1 111.79999,0 z"
+       id="path3773"
+       inkscape:export-filename="/home/rafael/workspace/logo-osi/3/png/logo396x412.png"
+       inkscape:export-xdpi="48.18"
+       inkscape:export-ydpi="48.18" />
   </g>
 </svg>
