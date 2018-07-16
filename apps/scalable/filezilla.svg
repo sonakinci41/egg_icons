@@ -10,7 +10,7 @@
    viewBox="0 0 512 512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    width="512"
    height="512"
    sodipodi:docname="filezilla.svg">
@@ -36,7 +36,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="717"
      id="namedview59"
      showgrid="false"
      inkscape:zoom="0.61458333"
@@ -91,31 +91,56 @@
       </g>
     </clipPath>
   </defs>
-  <rect
-     style="fill:#f03916;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect3038"
-     width="450"
-     height="450"
-     x="31"
-     y="31"
-     rx="56.730766" />
   <g
      id="g33"
      transform="matrix(3.9021162,0,0,3.9021162,4.1481354,317.37561)" />
   <g
-     id="g47"
-     transform="matrix(11.346153,0,0,11.346153,-24.384646,-22.076934)">
+     id="g862">
+    <path
+       id="path842"
+       d="M 432.91327,56.473995 C 535.10618,145.04857 538.74004,306.17368 441.03007,416.37276 343.3201,526.57184 181.27963,544.1006 79.086723,455.52602 -23.106179,366.95143 -26.740044,205.82632 70.969923,95.627255 168.67989,-14.57182 330.72037,-32.10059 432.91327,56.473995 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#c6262e;fill-opacity:1;stroke-width:11.10955715" />
+    <path
+       id="path845"
+       d="M 511.6355,224.90352 C 510.08412,286.21517 486.47428,349.05813 440.66913,400.71799 342.95916,510.91711 180.91868,528.44584 78.725783,439.87129 30.827153,398.35564 4.496841,340.92284 0.19385105,280.22881 0.79910105,346.58548 27.117433,410.48218 79.078673,455.51906 181.27161,544.09361 343.31976,526.55619 441.02202,416.36577 490.72697,360.30766 514.02704,291.07481 511.6355,224.90352 Z"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:11.10955715" />
     <g
-       clip-path="url(#clipPath-411038796)"
-       id="g49">
-      <!-- color: #bb0000 -->
+       style="fill:#000000;fill-opacity:0.49019608"
+       id="g45"
+       transform="matrix(13.003793,0,0,13.003793,-36.045516,-36.032518)">
       <g
-         id="g51">
-        <path
-           d="M 16.867,12 12,33.578 l 3.953,0 2.293,-9.656 10.793,0 -10.11,9.04 2.633,3.03 1.348,-0.695 c 2.551,-1.309 3.621,-0.543 5.555,-0.008 1.883,0.52 3.656,1.078 7.328,-1.035 l -0.73,-3.734 c -4,2.848 -5.273,0.309 -8.129,0.203 l 8.172,-6.914 0.887,-3.695 -17.12,0 1.105,-4.426 11.223,0 0.773,-3.695 -15.11,0 m 0.008,0.004"
-           id="path53"
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="fill:#000000;fill-opacity:0.49019608"
+         clip-path="url(#clipPath-411038796)"
+         id="g43">
+        <!-- color: #bb0000 -->
+        <g
+           style="fill:#000000;fill-opacity:0.49019608"
+           id="g41">
+          <path
+             d="M 16.867,12 12,33.578 h 3.953 l 2.293,-9.656 h 10.793 l -10.11,9.04 2.633,3.03 1.348,-0.695 c 2.551,-1.309 3.621,-0.543 5.555,-0.008 1.883,0.52 3.656,1.078 7.328,-1.035 l -0.73,-3.734 c -4,2.848 -5.273,0.309 -8.129,0.203 l 8.172,-6.914 0.887,-3.695 h -17.12 l 1.105,-4.426 h 11.223 l 0.773,-3.695 h -15.11 m 0.008,0.004"
+             id="path39"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.49019608;fill-rule:nonzero;stroke:none" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(13.003793,0,0,13.003793,-56.045516,-56.032518)"
+       id="g47">
+      <g
+         id="g49"
+         clip-path="url(#clipPath-411038796)">
+        <!-- color: #bb0000 -->
+        <g
+           id="g51">
+          <path
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             inkscape:connector-curvature="0"
+             id="path53"
+             d="M 16.867,12 12,33.578 h 3.953 l 2.293,-9.656 h 10.793 l -10.11,9.04 2.633,3.03 1.348,-0.695 c 2.551,-1.309 3.621,-0.543 5.555,-0.008 1.883,0.52 3.656,1.078 7.328,-1.035 l -0.73,-3.734 c -4,2.848 -5.273,0.309 -8.129,0.203 l 8.172,-6.914 0.887,-3.695 h -17.12 l 1.105,-4.426 h 11.223 l 0.773,-3.695 h -15.11 m 0.008,0.004" />
+        </g>
       </g>
     </g>
   </g>
