@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
+   width="512"
+   height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   viewBox="0 0 36.124445 36.124445"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   viewBox="0 0 144.49778 144.49778"
    sodipodi:docname="gtkhash.svg">
   <defs
      id="defs4" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0250677"
-     inkscape:cx="-16.506643"
-     inkscape:cy="47.824768"
+     inkscape:zoom="0.35798478"
+     inkscape:cx="-89.871734"
+     inkscape:cy="492.4819"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,27 +35,31 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="720"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      showguides="false">
     <sodipodi:guide
        position="8.9999996,38.999975"
        orientation="30.000028,0"
-       id="guide3274" />
+       id="guide3274"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="8.9999996,8.9999467"
        orientation="0,30.000001"
-       id="guide3276" />
+       id="guide3276"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="39.000001,8.9999467"
        orientation="-30.000028,0"
-       id="guide3278" />
+       id="guide3278"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="39.000001,38.999975"
        orientation="0,-30.000001"
-       id="guide3280" />
+       id="guide3280"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -65,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,41 +77,75 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-260.87556)">
+     transform="translate(0,-152.50222)">
     <g
-       id="g4152">
-      <rect
-         style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="rect3282"
-         width="32.574711"
-         height="32.574711"
-         x="1.6933331"
-         y="262.73196"
-         ry="16.287355" />
-      <rect
-         ry="2.0359182"
-         y="276.98337"
-         x="9.022644"
-         height="4.0718365"
-         width="4.0718365"
-         id="rect3305"
-         style="fill:#ffcc00;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#ffcc00;fill-opacity:1;stroke:none"
-         id="rect3307"
-         width="4.0718365"
-         height="4.0718365"
-         x="22.866899"
-         y="276.98337"
-         ry="2.0359182" />
-      <rect
-         style="fill:#ffcc00;fill-opacity:1;stroke:none"
-         id="rect3313"
-         width="4.0718365"
-         height="4.0718365"
-         x="15.944772"
-         y="276.98337"
-         ry="2.0359182" />
+       id="g869">
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:3.13536429"
+         inkscape:connector-curvature="0"
+         d="m 122.17777,168.44044 c 28.84108,24.99772 29.86663,70.4708 2.29074,101.57144 C 96.892558,301.11251 51.161097,306.0595 22.320016,281.06179 -6.5210736,256.06408 -7.54663,210.59099 20.029278,179.49036 47.605175,148.38973 93.336616,143.44272 122.17777,168.44044 Z"
+         id="path911" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:3.13536263"
+         inkscape:connector-curvature="0"
+         d="m 144.39477,215.975 c -0.43784,17.30351 -7.10105,35.03919 -20.02827,49.61876 C 96.790604,296.6944 51.059233,301.64139 22.218151,276.64368 8.7001001,264.92704 1.2691116,248.71823 0.05471232,231.58902 c 0.17081537,18.72733 7.59842578,36.76041 22.26303568,49.47081 28.841081,24.9977 74.574621,20.04825 102.148352,-11.04993 14.02782,-15.82085 20.60362,-35.35989 19.92867,-54.0349 z"
+         id="path913" />
+      <g
+         style="fill:#000000;fill-opacity:0.49019608"
+         id="g852">
+        <rect
+           ry="10.006047"
+           y="220.26123"
+           x="33.866669"
+           height="20.012094"
+           width="20.012094"
+           id="rect843"
+           style="fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:4.91475868" />
+        <rect
+           style="fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:4.91475868"
+           id="rect845"
+           width="20.012094"
+           height="20.012094"
+           x="101.9079"
+           y="220.26123"
+           ry="10.006047" />
+        <rect
+           style="fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:4.91475868"
+           id="rect847"
+           width="20.012094"
+           height="20.012094"
+           x="67.88736"
+           y="220.26123"
+           ry="10.006047" />
+      </g>
+      <g
+         style="fill:#ffffff"
+         id="g857">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.91475868"
+           id="rect3305"
+           width="20.012094"
+           height="20.012094"
+           x="28.222223"
+           y="214.61679"
+           ry="10.006047" />
+        <rect
+           ry="10.006047"
+           y="214.61679"
+           x="96.263451"
+           height="20.012094"
+           width="20.012094"
+           id="rect3307"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.91475868" />
+        <rect
+           ry="10.006047"
+           y="214.61679"
+           x="62.242912"
+           height="20.012094"
+           width="20.012094"
+           id="rect3313"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.91475868" />
+      </g>
     </g>
   </g>
 </svg>
