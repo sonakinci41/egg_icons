@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="500"
+   width="512"
+   height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="homerun.svg">
   <metadata
      id="metadata12">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="720"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="0.30729165"
-     inkscape:cx="-220.52498"
-     inkscape:cy="483.92128"
+     inkscape:zoom="0.15364583"
+     inkscape:cx="-634.89615"
+     inkscape:cy="544.87504"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:showpageshadow="false"
@@ -52,48 +52,26 @@
   <defs
      id="defs4" />
   <g
-     id="g4149">
-    <rect
-       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="g850">
+    <path
+       style="fill:#3689e6;fill-opacity:1;stroke-width:11.10955811"
+       inkscape:connector-curvature="0"
+       d="m 432.91327,56.47396 c 102.19291,88.57459 105.82678,249.69971 8.1168,359.89879 C 343.3201,526.57182 181.27964,544.10062 79.086729,455.52601 -23.106186,366.95142 -26.740042,205.8263 70.969928,95.62722 168.6799,-14.57186 330.72036,-32.10063 432.91327,56.47396 Z"
+       id="path27" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:11.10955811"
+       inkscape:connector-curvature="0"
+       d="M 511.63551,224.90351 C 510.08412,286.21516 486.47428,349.05812 440.66913,400.71798 342.95915,510.91712 180.91869,528.44582 78.725776,439.87128 30.827124,398.35563 4.4968216,340.92283 0.19382772,280.2288 0.79907938,346.58547 27.117411,410.48217 79.078682,455.51906 181.27159,544.09362 343.31975,526.55622 441.02202,416.36576 490.72697,360.30765 514.02704,291.0748 511.63551,224.90351 Z"
+       id="path51" />
+    <path
+       style="fill:#000000;fill-opacity:0.49019608;fill-rule:evenodd;stroke:none;stroke-width:0.69253874"
+       d="M 276,120 C 189.576,120 120,189.57531 120,275.99932 120,362.42334 189.576,432 276,432 362.424,432 432,362.42334 432,275.99932 432,189.57531 362.424,120 276,120 Z m -70.2,85.80071 h 39 v 38.99983 h -39 z m 101.4,0 h 39 v 38.99983 h -39 z m -101.4,101.4001 h 39 v 38.99983 h -39 z m 101.4,0 h 39 v 38.99983 h -39 z"
+       id="path844"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
        id="rect3282"
-       width="450"
-       height="451.03326"
-       x="25"
-       y="23.966736"
-       ry="225.51663" />
-    <rect
-       transform="scale(-1,1)"
-       ry="0"
-       y="148.00145"
-       x="-351.24988"
-       height="56.379116"
-       width="56.249962"
-       id="rect3305"
-       style="fill:#00bbf2;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#55d9ff;fill-opacity:1;stroke:none"
-       id="rect3307"
-       width="56.249962"
-       height="56.379116"
-       x="294.99994"
-       y="294.58713"
-       ry="0" />
-    <rect
-       style="fill:#00bbf2;fill-opacity:1;stroke:none"
-       id="rect3313"
-       width="56.249962"
-       height="56.379116"
-       x="148.75002"
-       y="294.58713"
-       ry="0" />
-    <rect
-       transform="scale(-1,1)"
-       style="fill:#008eb8;fill-opacity:1;stroke:none"
-       id="rect4129"
-       width="56.249962"
-       height="56.379116"
-       x="-204.99995"
-       y="148.00145"
-       ry="0" />
+       d="M 256,100 C 169.576,100 100,169.57531 100,255.99932 100,342.42334 169.576,412 256,412 342.424,412 412,342.42334 412,255.99932 412,169.57531 342.424,100 256,100 Z m -70.2,85.80071 h 39 v 38.99983 h -39 z m 101.4,0 h 39 v 38.99983 h -39 z m -101.4,101.4001 h 39 v 38.99983 h -39 z m 101.4,0 h 39 v 38.99983 h -39 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.69253874" />
   </g>
 </svg>
