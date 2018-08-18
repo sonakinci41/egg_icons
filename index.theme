@@ -45,7 +45,9 @@ MaxSize=512
 [categories/start-menu]
 Size=32
 Context=Categories
-Type=Fixed
+Type=Scalable
+MinSize=16
+MaxSize=512
 
 ## Categories End
 
@@ -101,16 +103,22 @@ MaxSize=512
 [status/im-status]
 Size=16
 Context=Status
-Type=Fixed
+Type=Scalable
+MinSize=16
+MaxSize=512
 
 [status/panel]
 Size=22
 Context=Status
-Type=Fixed
+Type=Scalable
+MinSize=16
+MaxSize=512
 
 [status/dialogs]
 Size=64
 Context=Status
-Type=Fixed
+Type=Scalable
+MinSize=16
+MaxSize=512
 
 ## Status End
