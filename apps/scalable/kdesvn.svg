@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="500"
+   width="512"
+   height="512"
    id="svg3130"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="kdesvn.svg">
   <metadata
      id="metadata3145">
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,73 +37,119 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="718"
      id="namedview3143"
      showgrid="false"
-     inkscape:zoom="0.86915209"
-     inkscape:cx="305.16573"
-     inkscape:cy="239.45058"
+     inkscape:zoom="0.30729167"
+     inkscape:cx="-82.63801"
+     inkscape:cy="389.47912"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3130" />
   <defs
      id="defs3132" />
   <g
-     id="g4139">
+     id="g893">
+    <path
+       id="path881"
+       d="m 432.91329,56.47397 c 102.19291,88.57459 105.82677,249.69971 8.1168,359.89879 C 343.32012,526.57182 181.27964,544.10062 79.086727,455.52602 -23.106181,366.95143 -26.740046,205.82631 70.969927,95.62723 168.6799,-14.57185 330.72038,-32.10062 432.91329,56.47397 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#3689e6;fill-opacity:1;stroke-width:11.10955811" />
+    <path
+       id="path883"
+       d="m 511.63551,224.90352 c -1.5514,61.31166 -25.16123,124.1546 -70.96638,175.81449 C 342.95916,510.91712 180.91869,528.44582 78.72578,439.87127 30.827126,398.35564 4.496824,340.92283 0.19383011,280.22879 0.79908167,346.58547 27.117413,410.48219 79.078684,455.51904 181.2716,544.09362 343.31975,526.55622 441.02203,416.36578 490.72697,360.30764 514.02705,291.07481 511.63551,224.90352 Z"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:11.10955811" />
     <rect
-       id="rect4118"
-       width="450"
-       height="450"
-       rx="450"
-       ry="450"
-       x="25"
-       y="25.00001"
-       style="fill:#00bbf2;fill-opacity:1" />
+       id="rect855"
+       width="155.99979"
+       height="121.3339"
+       x="120"
+       y="119.99998"
+       style="fill:#000000;fill-opacity:0.49019608;stroke-width:1.30963218" />
+    <path
+       id="rect857"
+       d="M 187.18164 241.33398 L 187.18164 362.66797 L 204.51562 362.66797 L 204.51562 241.33398 L 187.18164 241.33398 z "
+       style="fill:#000000;fill-opacity:0.49019608;stroke-width:1.30963218" />
     <rect
-       style="fill:#ffffff"
-       y="134.97353"
-       x="125.3782"
-       height="92.647041"
-       width="119.1176"
-       id="rect4124" />
+       id="rect859"
+       transform="rotate(90)"
+       width="17.333412"
+       height="190.66643"
+       x="362.66806"
+       y="-377.84888"
+       style="fill:#000000;fill-opacity:0.49019608;stroke-width:1.30963218" />
     <rect
-       style="fill:#ffffff"
-       y="227.62019"
-       x="176.67708"
-       height="105.88252"
-       width="13.235313"
-       id="rect4126" />
+       id="rect861"
+       width="86.66655"
+       height="69.333656"
+       x="328.00009"
+       y="119.99998"
+       style="fill:#000000;fill-opacity:0.49019608;stroke-width:1.30963218" />
     <rect
-       style="fill:#ffffff"
-       y="-322.26526"
-       x="320.26782"
-       height="145.5882"
-       width="13.23529"
-       transform="matrix(0,1,-1,0,0,0)"
-       id="rect4130" />
+       id="rect863"
+       width="17.333342"
+       height="138.66756"
+       x="362.66666"
+       y="189.33235"
+       style="fill:#000000;fill-opacity:0.49019608;stroke-width:1.30963218" />
     <rect
-       style="fill:#ff6600"
-       y="134.97353"
-       x="284.20193"
-       height="52.941166"
-       width="66.176445"
-       id="rect4143" />
-    <rect
-       style="fill:#ffffff"
-       y="187.91371"
-       x="310.67249"
-       height="105.88252"
-       width="13.235313"
-       id="rect4145" />
-    <rect
-       style="fill:#394050"
-       y="280.56064"
-       x="270.96667"
-       ry="46.323513"
-       rx="46.323513"
-       height="92.647041"
-       width="92.647041"
-       id="rect4128" />
+       id="rect865"
+       width="121.33319"
+       height="121.3339"
+       rx="60.666584"
+       ry="60.666939"
+       x="310.66681"
+       y="310.66611"
+       style="fill:#000000;fill-opacity:0.49019608;stroke-width:1.30963218" />
+    <g
+       id="g853">
+      <rect
+         id="rect4124"
+         width="155.99979"
+         height="121.3339"
+         x="100"
+         y="99.999992"
+         style="fill:#ffffff;stroke-width:1.30963218" />
+      <rect
+         id="rect4126"
+         width="17.333342"
+         height="138.66756"
+         x="167.1825"
+         y="221.33337"
+         style="fill:#ffffff;stroke-width:1.30963218" />
+      <rect
+         id="rect4130"
+         transform="rotate(90)"
+         width="17.333412"
+         height="190.66643"
+         x="342.66806"
+         y="-357.84888"
+         style="fill:#ffffff;stroke-width:1.30963218" />
+      <rect
+         id="rect4143"
+         width="86.66655"
+         height="69.333656"
+         x="308.00009"
+         y="99.999992"
+         style="fill:#ffffff;stroke-width:1.30963218" />
+      <rect
+         id="rect4145"
+         width="17.333342"
+         height="138.66756"
+         x="342.66666"
+         y="169.33237"
+         style="fill:#ffffff;stroke-width:1.30963218" />
+      <rect
+         id="rect4128"
+         width="121.33319"
+         height="121.3339"
+         rx="60.666584"
+         ry="60.666939"
+         x="290.66681"
+         y="290.66611"
+         style="fill:#ffffff;stroke-width:1.30963218" />
+    </g>
   </g>
 </svg>
