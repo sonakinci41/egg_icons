@@ -13,8 +13,8 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="flash.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="kipi-flash.svg"
    inkscape:export-filename="/home/uri/workspace/NitruxforAndroid/res/drawable-xhdpi/flash_settings.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
@@ -28,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87003251"
-     inkscape:cx="227.26544"
-     inkscape:cy="256"
+     inkscape:zoom="0.43501626"
+     inkscape:cx="187.01512"
+     inkscape:cy="214.37947"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="718"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -56,18 +56,28 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-540.3622)">
-    <rect
-       style="fill:#f03916;fill-opacity:1;stroke:none;stroke-width:11.25000000000000000"
-       id="rect4078"
-       width="450"
-       height="450"
-       x="31"
-       y="571.36218"
-       ry="225" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.25"
-       id="path3727"
-       inkscape:connector-curvature="0"
-       d="m 336.99955,695.17652 0,40.74188 c -40.67211,0.70875 -50.66782,40.37737 -50.66782,40.37737 l 30.67643,0 0,40.73738 -47.56567,0 c -28.60835,88.26075 -94.44203,80.4015 -94.44203,80.4015 l 0,-40.74075 c 0,0 41.77553,7.75462 63.07623,-70.03688 26.64525,-97.30237 98.92286,-91.4805 98.92286,-91.4805 z" />
+    <g
+       id="g841">
+      <path
+         id="path911"
+         d="m 432.91337,596.83619 c 102.1928,88.57459 105.82666,249.69971 8.11679,359.89883 C 343.3201,1066.934 181.27948,1084.4628 79.086674,995.88822 -23.106167,907.31365 -26.740027,746.18853 70.969882,635.98945 168.67976,525.79037 330.7203,508.2616 432.91337,596.83619 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#c6262e;fill-opacity:1;stroke-width:11.10955238" />
+      <path
+         id="path913"
+         d="M 511.63501,765.26574 C 510.08361,826.5774 486.4738,889.42034 440.6687,941.08022 342.95883,1051.2793 180.91853,1068.808 78.72572,980.23352 30.827116,938.71782 4.496841,881.28505 0.19385162,820.59101 0.79910241,886.94769 27.117407,950.84442 79.078624,995.88122 181.27144,1084.4558 343.31942,1066.9184 441.0216,956.72802 490.72649,900.66986 514.02655,831.43703 511.63501,765.26574 Z"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:11.10955238" />
+      <path
+         style="fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:17.33297157"
+         id="path27"
+         inkscape:connector-curvature="0"
+         d="m 400.59338,660.46466 v 62.77136 c -62.66387,1.09198 -78.06434,62.20976 -78.06434,62.20976 h 47.26344 v 62.76443 H 296.50764 C 252.43051,984.1943 151,972.08549 151,972.08549 v -62.76962 c 0,0 64.36392,11.94761 97.18209,-107.90642 41.05256,-149.9146 152.41129,-140.94479 152.41129,-140.94479 z" />
+      <path
+         d="m 380.59338,640.46466 v 62.77136 c -62.66387,1.09198 -78.06434,62.20976 -78.06434,62.20976 h 47.26344 v 62.76443 H 276.50764 C 232.43051,964.1943 131,952.08549 131,952.08549 v -62.76962 c 0,0 64.36392,11.94761 97.18209,-107.90642 41.05256,-149.9146 152.41129,-140.94479 152.41129,-140.94479 z"
+         inkscape:connector-curvature="0"
+         id="path3727"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:17.33297157" />
+    </g>
   </g>
 </svg>
