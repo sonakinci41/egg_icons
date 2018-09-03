@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    viewBox="0 0 144.49777 144.49779"
    sodipodi:docname="kwikdisk.svg">
   <defs
@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="-506.25447"
-     inkscape:cy="649.57709"
+     inkscape:zoom="0.25000001"
+     inkscape:cx="453.82337"
+     inkscape:cy="101.72108"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -62,9 +62,9 @@
      fit-margin-bottom="0"
      showguides="true"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="718"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -83,10 +83,28 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(38.119153,-266.89382)">
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f03916;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-       id="rect3156"
-       inkscape:connector-curvature="0"
-       d="m 34.245849,294.32198 a 4.3727883,3.1117537 0 0 0 -3.217774,1.56013 l -45.536376,56.16478 a 4.3727883,3.1117537 0 0 0 -0.58505,1.46263 4.3727883,3.1117537 0 0 0 4.387874,3.21777 l 91.072752,0 a 4.3727883,3.1117537 0 0 0 3.802824,-4.6804 L 38.633723,295.88211 a 4.3727883,3.1117537 0 0 0 -4.387874,-1.56013 z m -43.0986686,74.88637 c -3.4572544,0 -6.2405314,2.78328 -6.2405314,6.24053 l 0,12.48107 c 0,3.45725 2.783277,6.24053 6.2405314,6.24053 l 87.3674366,0 c 3.457254,0 6.240531,-2.78328 6.240531,-6.24053 l 0,-12.48107 c 0,-3.45725 -2.783277,-6.24053 -6.240531,-6.24053 l -87.3674366,0 z" />
+    <g
+       id="g841">
+      <path
+         style="fill:#c6262e;fill-opacity:1;stroke-width:3.13536429"
+         inkscape:connector-curvature="0"
+         d="m 84.058595,282.83203 c 28.841115,24.99771 29.866665,70.47081 2.290742,101.57144 C 58.773411,415.5041 13.041991,420.4511 -15.799121,395.45339 -44.640233,370.45568 -45.665787,324.98258 -18.089861,293.88195 9.4860645,262.78132 55.217485,257.83432 84.058595,282.83203 Z"
+         id="path27" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:3.13536429"
+         inkscape:connector-curvature="0"
+         d="m 106.27576,330.3666 c -0.43784,17.30351 -7.10106,35.03918 -20.028291,49.61875 -27.575926,31.10064 -73.307346,36.04764 -102.148458,11.04992 -13.518064,-11.71663 -20.949061,-27.92545 -22.163461,-45.05466 0.170815,18.72734 7.598433,36.76041 22.263059,49.47081 28.84111,24.99772 74.574701,20.04827 102.148456,-11.04992 14.027835,-15.82085 20.603645,-35.35989 19.928695,-54.0349 z"
+         id="path51" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0.49019608;fill-rule:nonzero;stroke:none;stroke-width:1.76349509;marker:none;enable-background:accumulate"
+         id="path835"
+         inkscape:connector-curvature="0"
+         d="m 39.254473,300.77265 a 3.8556954,2.7437812 0 0 0 -2.83726,1.37564 l -40.1515894,49.52316 a 3.8556954,2.7437812 0 0 0 -0.51587,1.28967 3.8556954,2.7437812 0 0 0 3.86898999,2.83726 H 79.921933 a 3.8556954,2.7437812 0 0 0 3.35312,-4.12693 l -40.15159,-49.52316 a 3.8556954,2.7437812 0 0 0 -3.86899,-1.37564 z M 1.2523236,366.80352 c -3.04842,0 -5.50257,2.45415 -5.50257,5.50258 v 11.00515 c 0,3.04842 2.45415,5.50257 5.50257,5.50257 H 78.288353 c 3.04842,0 5.50257,-2.45415 5.50257,-5.50257 V 372.3061 c 0,-3.04843 -2.45415,-5.50258 -5.50257,-5.50258 z" />
+      <path
+         d="m 33.610029,295.12821 a 3.8556954,2.7437812 0 0 0 -2.83726,1.37564 l -40.1515899,49.52316 a 3.8556954,2.7437812 0 0 0 -0.51587,1.28967 3.8556954,2.7437812 0 0 0 3.86899,2.83726 H 74.277489 a 3.8556954,2.7437812 0 0 0 3.35312,-4.12693 l -40.15159,-49.52316 a 3.8556954,2.7437812 0 0 0 -3.86899,-1.37564 z m -38.0021499,66.03087 c -3.04842,0 -5.50257,2.45415 -5.50257,5.50258 v 11.00515 c 0,3.04842 2.45415,5.50257 5.50257,5.50257 H 72.643909 c 3.04842,0 5.50257,-2.45415 5.50257,-5.50257 v -11.00515 c 0,-3.04843 -2.45415,-5.50258 -5.50257,-5.50258 z"
+         inkscape:connector-curvature="0"
+         id="rect3156"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.76349509;marker:none;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
