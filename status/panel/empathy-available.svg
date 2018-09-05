@@ -10,9 +10,9 @@
    viewBox="0 0 22 22"
    id="svg"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   width="100%"
-   height="100%"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="22"
+   height="22"
    sodipodi:docname="empathy-available.svg">
   <defs
      id="defs81">
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,20 +76,21 @@
      inkscape:pageopacity="0.03921569"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="718"
      id="namedview32"
      showgrid="true"
      inkscape:zoom="16"
-     inkscape:cx="6.5254144"
+     inkscape:cx="-4.3183356"
      inkscape:cy="7.7596433"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg"
      borderlayer="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-bbox="true">
+     inkscape:snap-bbox="true"
+     units="px">
     <inkscape:grid
        type="xygrid"
        id="grid3046"
@@ -100,7 +101,7 @@
   </sodipodi:namedview>
   <g
      id="g829"
-     transform="matrix(0.04296875,0,0,0.04296875,8.4878042e-5,21.054734)">
+     transform="matrix(0.04296875,0,0,0.04296875,8.4878042e-5,21.054685)">
     <path
        id="path900"
        d="m 432.91336,-433.52599 c 102.19292,88.57459 105.82678,249.69971 8.1168,359.898796 C 343.32019,36.57189 181.27974,54.100659 79.086832,-34.473933 -23.106117,-123.04853 -26.739944,-284.17365 70.970031,-394.37273 168.67997,-504.57182 330.72045,-522.10058 432.91336,-433.52599 Z"
