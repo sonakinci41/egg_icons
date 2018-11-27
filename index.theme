@@ -26,35 +26,35 @@ Directories=actions,apps/scalable,categories/start-menu,devices/hardware,emblems
 Size=22
 Context=Actions
 MinSize=16
-MaxSize=512
+MaxSize=64
 Type=Scalable
 
 [apps/scalable]
 Context=Applications
 Size=64
 MinSize=16
-MaxSize=512
+MaxSize=64
 Type=Scalable
 
 [categories/start-menu]
 Context=Categories
 Size=32
 MinSize=16
-MaxSize=512
+MaxSize=64
 Type=Scalable
 
 [devices/hardware]
 Context=Devices
 Size=64
 MinSize=16
-MaxSize=512
+MaxSize=64
 Type=Scalable
 
 [emblems/scalable]
 Context=Emblems
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=64
 Type=Scalable
 
 [emblems/small]
@@ -82,19 +82,19 @@ Type=Scalable
 Context=Status
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=64
 Type=Scalable
 
 [status/panel]
 Context=Status
 Size=22
 MinSize=16
-MaxSize=512
+MaxSize=64
 Type=Scalable
 
 [status/dialogs]
 Context=Status
 Size=64
 MinSize=16
-MaxSize=512
+MaxSize=64
 Type=Scalable
