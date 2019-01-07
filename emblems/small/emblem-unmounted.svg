@@ -13,7 +13,7 @@
    height="8"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    viewBox="0 0 8 8"
    sodipodi:docname="emblem-unmounted.svg">
   <defs
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23"
-     inkscape:cx="-3.551972"
+     inkscape:cx="8.621941"
      inkscape:cy="2.5501221"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,7 +35,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="706"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,10 +68,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-7,-1037.3622)">
-    <path
-       style="fill:#f03916;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       d="M 4 0 A 4 4 0 0 0 0 4 A 4 4 0 0 0 4 8 A 4 4 0 0 0 8 4 A 4 4 0 0 0 4 0 z M 4 1 A 3 3 0 0 1 7 4 A 3 3 0 0 1 4 7 A 3 3 0 0 1 1 4 A 3 3 0 0 1 4 1 z "
-       transform="translate(7,1037.3622)"
-       id="path4135" />
+    <g
+       id="g29">
+      <path
+         style="fill:#c6262e;fill-opacity:1;stroke-width:0.17358685"
+         inkscape:connector-curvature="0"
+         d="m 13.76427,1038.2446 c 1.596764,1.384 1.653543,3.9016 0.126825,5.6234 -1.526718,1.7219 -4.0586004,1.9958 -5.6553646,0.6118 -1.5967648,-1.384 -1.6535433,-3.9016 -0.126825,-5.6234 1.5267183,-1.7219 4.0586006,-1.9958 5.6553646,-0.6118 z"
+         id="path925" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:0.17358685"
+         inkscape:connector-curvature="0"
+         d="m 14.994305,1040.8763 c -0.02424,0.958 -0.393144,1.9399 -1.10885,2.7471 -1.526718,1.7219 -4.0586002,1.9958 -5.655365,0.6118 -0.7484161,-0.6487 -1.1598271,-1.5461 -1.2270614,-2.4944 0.00946,1.0368 0.4206809,2.0352 1.2325761,2.7389 1.5967642,1.384 4.1287663,1.1099 5.6553643,-0.6118 0.77664,-0.8759 1.140703,-1.9577 1.103336,-2.9916 z"
+         id="path929" />
+    </g>
   </g>
 </svg>
