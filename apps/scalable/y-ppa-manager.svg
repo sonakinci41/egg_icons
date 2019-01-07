@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    width="512"
    height="512"
    sodipodi:docname="y-ppa-manager.svg">
@@ -39,51 +39,95 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="706"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.13512437"
-     inkscape:cx="557.14664"
-     inkscape:cy="-311.97673"
+     inkscape:zoom="0.38218943"
+     inkscape:cx="470.09648"
+     inkscape:cy="82.614411"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
-     id="g3378">
-    <rect
-       ry="19.265604"
-       y="12"
-       x="10"
-       height="490"
-       width="490"
-       id="rect3334"
-       style="fill:#00bbf2;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     id="g894">
+    <path
+       style="fill:#3689e6;fill-opacity:1;stroke-width:11.10955238"
+       inkscape:connector-curvature="0"
+       d="m 432.91335,56.47401 c 102.1928,88.5746 105.82667,249.69972 8.11679,359.89878 C 343.32008,526.57181 181.27947,544.10061 79.086671,455.52605 -23.106166,366.95146 -26.740026,205.82635 70.969879,95.62727 168.67975,-14.57181 330.72028,-32.10058 432.91335,56.47401 Z"
+       id="path911" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:11.10955238"
+       inkscape:connector-curvature="0"
+       d="m 511.63499,224.90356 c -1.5514,61.31165 -25.16121,124.15459 -70.96631,175.81448 C 342.95882,510.91711 180.91853,528.44581 78.725718,439.8713 30.827115,398.35567 4.4968405,340.92287 0.19385115,280.22883 0.79910195,346.58551 27.117407,410.48222 79.078622,455.51907 181.27143,544.09361 343.3194,526.55621 441.02158,416.36581 490.72647,360.30767 514.02654,291.07484 511.63499,224.90356 Z"
+       id="path913" />
     <g
-       id="flowRoot3336"
-       style="font-style:normal;font-weight:normal;font-size:103.98233795px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(4.0560143,0,0,4.0560143,-99.524423,-310.0813)">
-      <path
-         id="path3376"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#ffffff"
-         d="M 71.371004,139.41948 53.901972,111.24026 c -0.831859,-1.24779 -1.143806,-2.18363 -1.143806,-2.9115 0,-1.35177 1.247788,-1.97567 4.055311,-1.97567 l 6.134958,0 0,-4.88717 -33.37833,0 0,4.88717 2.287611,0 c 4.471241,0 6.030976,0.93584 8.422569,4.78319 l 22.460185,35.56196 0,17.0531 0,3.01549 c 0,4.36726 -0.935841,4.88717 -9.35841,4.88717 l -2.703541,0 0,4.88717 35.665942,0 0,-4.88717 -2.703541,0 c -8.422569,0 -9.254428,-0.41593 -9.254428,-4.88717 l 0,-3.01549 0,-18.30089 15.493369,-27.97125 c 2.287611,-4.05531 3.639381,-6.03097 5.199117,-7.59071 2.391593,-2.18363 5.719032,-3.5354 9.150442,-3.5354 l 0.83186,0 0,-4.88717 -29.530982,0 0,4.88717 2.391594,0 c 5.719028,0 8.110622,1.35177 8.110622,4.67921 0,1.55973 -0.623894,3.32743 -1.7677,5.40708 l -12.89381,22.9801 z" />
+       style="fill:#000000;fill-opacity:0.49019608"
+       transform="translate(20,19.999999)"
+       id="g71">
+      <g
+         id="g61"
+         style="font-style:normal;font-weight:normal;font-size:103.98233795px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(2.7000242,0,0,2.7000242,20.160001,-119.66543)">
+        <path
+           id="path59"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#000000;fill-opacity:0.49019608"
+           d="M 71.371004,139.41948 53.901972,111.24026 c -0.831859,-1.24779 -1.143806,-2.18363 -1.143806,-2.9115 0,-1.35177 1.247788,-1.97567 4.055311,-1.97567 h 6.134958 v -4.88717 h -33.37833 v 4.88717 h 2.287611 c 4.471241,0 6.030976,0.93584 8.422569,4.78319 l 22.460185,35.56196 v 17.0531 3.01549 c 0,4.36726 -0.935841,4.88717 -9.35841,4.88717 h -2.703541 v 4.88717 H 86.344461 V 171.654 H 83.64092 c -8.422569,0 -9.254428,-0.41593 -9.254428,-4.88717 v -3.01549 -18.30089 L 89.879861,117.4792 c 2.287611,-4.05531 3.639381,-6.03097 5.199117,-7.59071 2.391593,-2.18363 5.719032,-3.5354 9.150442,-3.5354 h 0.83186 v -4.88717 H 75.530298 v 4.88717 h 2.391594 c 5.719028,0 8.110622,1.35177 8.110622,4.67921 0,1.55973 -0.623894,3.32743 -1.7677,5.40708 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g69"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(2.1809774,0,0,2.1809774,166.05698,48.006942)">
+        <path
+           id="path63"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#000000;fill-opacity:0.49019608"
+           d="m 40.009844,117.50535 h 4.52 c 3.6,0 5.48,-0.28 7.08,-1.04 2.84,-1.36 4.44,-3.92 4.44,-7.08 0,-3.04 -1.4,-5.36 -4.04,-6.68 -1.56,-0.8 -4.04,-1.24 -6.8,-1.24 h -14 v 1.88 h 0.72 c 3.24,0 3.6,0.2 3.6,1.88 v 1.16 19.04 1.16 c 0,1.68 -0.36,1.88 -3.6,1.88 h -0.72 v 1.88 h 13.44 v -1.88 h -1.04 c -3.24,0 -3.6,-0.2 -3.6,-1.88 v -1.16 z m 0,-1.88 v -10.24 c 0,-1.84 0.24,-2.04 2.44,-2.04 h 2.56 c 4.16,0 6.12,1.96 6.12,6.2 0,4.12 -2.04,6.08 -6.28,6.08 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path65"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#000000;fill-opacity:0.49019608"
+           d="m 66.728594,117.50535 h 4.52 c 3.6,0 5.48,-0.28 7.08,-1.04 2.84,-1.36 4.44,-3.92 4.44,-7.08 0,-3.04 -1.4,-5.36 -4.04,-6.68 -1.56,-0.8 -4.04,-1.24 -6.8,-1.24 h -14 v 1.88 h 0.72 c 3.24,0 3.6,0.2 3.6,1.88 v 1.16 19.04 1.16 c 0,1.68 -0.36,1.88 -3.6,1.88 h -0.72 v 1.88 h 13.44 v -1.88 h -1.04 c -3.24,0 -3.6,-0.2 -3.6,-1.88 v -1.16 z m 0,-1.88 v -10.24 c 0,-1.84 0.24,-2.04 2.44,-2.04 h 2.56 c 4.16,0 6.12,1.96 6.12,6.2 0,4.12 -2.04,6.08 -6.28,6.08 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path67"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#000000;fill-opacity:0.49019608"
+           d="m 98.647344,100.90535 h -1.68 l -9.2,23.32 c -0.8,2.08 -0.96,2.36 -1.56,3 -0.64,0.76 -1.76,1.24 -2.84,1.24 h -0.16 v 1.88 h 10.6 v -1.88 h -0.8 c -2.16,0 -3.24,-0.76 -3.24,-2.28 0,-0.48 0.12,-1.04 0.36,-1.68 l 1.32,-3.52 h 10.599996 l 2.16,5.36 c 0.24,0.6 0.32,0.88 0.32,1.08 0,0.64 -1,1.04 -2.48,1.04 h -1.68 v 1.88 h 12.4 v -1.88 h -0.56 c -2,0 -2.44,-0.32 -3.36,-2.56 z m -1.96,6.56 4.519996,11.36 h -8.959996 z"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
     <g
-       id="flowRoot3336-9"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(3.276295,0,0,3.276295,119.64407,-58.201494)">
-      <path
-         id="path3369"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#ffffff"
-         d="m 40.009844,117.50535 4.52,0 c 3.6,0 5.48,-0.28 7.08,-1.04 2.84,-1.36 4.44,-3.92 4.44,-7.08 0,-3.04 -1.4,-5.36 -4.04,-6.68 -1.56,-0.8 -4.04,-1.24 -6.8,-1.24 l -14,0 0,1.88 0.72,0 c 3.24,0 3.6,0.2 3.6,1.88 l 0,1.16 0,19.04 0,1.16 c 0,1.68 -0.36,1.88 -3.6,1.88 l -0.72,0 0,1.88 13.44,0 0,-1.88 -1.04,0 c -3.24,0 -3.6,-0.2 -3.6,-1.88 l 0,-1.16 0,-7.92 z m 0,-1.88 0,-10.24 c 0,-1.84 0.24,-2.04 2.44,-2.04 l 2.56,0 c 4.16,0 6.12,1.96 6.12,6.2 0,4.12 -2.04,6.08 -6.28,6.08 l -4.84,0 z" />
-      <path
-         id="path3371"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#ffffff"
-         d="m 66.728594,117.50535 4.52,0 c 3.6,0 5.48,-0.28 7.08,-1.04 2.84,-1.36 4.44,-3.92 4.44,-7.08 0,-3.04 -1.4,-5.36 -4.04,-6.68 -1.56,-0.8 -4.04,-1.24 -6.8,-1.24 l -14,0 0,1.88 0.72,0 c 3.24,0 3.6,0.2 3.6,1.88 l 0,1.16 0,19.04 0,1.16 c 0,1.68 -0.36,1.88 -3.6,1.88 l -0.72,0 0,1.88 13.44,0 0,-1.88 -1.04,0 c -3.24,0 -3.6,-0.2 -3.6,-1.88 l 0,-1.16 0,-7.92 z m 0,-1.88 0,-10.24 c 0,-1.84 0.24,-2.04 2.44,-2.04 l 2.56,0 c 4.16,0 6.12,1.96 6.12,6.2 0,4.12 -2.04,6.08 -6.28,6.08 l -4.84,0 z" />
-      <path
-         id="path3373"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#ffffff"
-         d="m 98.647344,100.90535 -1.68,0 -9.2,23.32 c -0.8,2.08 -0.96,2.36 -1.56,3 -0.64,0.76 -1.76,1.24 -2.84,1.24 l -0.16,0 0,1.88 10.6,0 0,-1.88 -0.8,0 c -2.16,0 -3.24,-0.76 -3.24,-2.28 0,-0.48 0.12,-1.04 0.36,-1.68 l 1.32,-3.52 10.599996,0 2.16,5.36 c 0.24,0.6 0.32,0.88 0.32,1.08 0,0.64 -1,1.04 -2.48,1.04 l -1.68,0 0,1.88 12.4,0 0,-1.88 -0.56,0 c -2,0 -2.44,-0.32 -3.36,-2.56 l -10.199996,-25 z m -1.96,6.56 4.519996,11.36 -8.959996,0 4.44,-11.36 z" />
+       id="g57">
+      <g
+         transform="matrix(2.7000242,0,0,2.7000242,20.160001,-119.66543)"
+         style="font-style:normal;font-weight:normal;font-size:103.98233795px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot3336">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 71.371004,139.41948 53.901972,111.24026 c -0.831859,-1.24779 -1.143806,-2.18363 -1.143806,-2.9115 0,-1.35177 1.247788,-1.97567 4.055311,-1.97567 h 6.134958 v -4.88717 h -33.37833 v 4.88717 h 2.287611 c 4.471241,0 6.030976,0.93584 8.422569,4.78319 l 22.460185,35.56196 v 17.0531 3.01549 c 0,4.36726 -0.935841,4.88717 -9.35841,4.88717 h -2.703541 v 4.88717 H 86.344461 V 171.654 H 83.64092 c -8.422569,0 -9.254428,-0.41593 -9.254428,-4.88717 v -3.01549 -18.30089 L 89.879861,117.4792 c 2.287611,-4.05531 3.639381,-6.03097 5.199117,-7.59071 2.391593,-2.18363 5.719032,-3.5354 9.150442,-3.5354 h 0.83186 v -4.88717 H 75.530298 v 4.88717 h 2.391594 c 5.719028,0 8.110622,1.35177 8.110622,4.67921 0,1.55973 -0.623894,3.32743 -1.7677,5.40708 z"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#ffffff"
+           id="path3376" />
+      </g>
+      <g
+         transform="matrix(2.1809774,0,0,2.1809774,166.05698,48.006942)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot3336-9">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 40.009844,117.50535 h 4.52 c 3.6,0 5.48,-0.28 7.08,-1.04 2.84,-1.36 4.44,-3.92 4.44,-7.08 0,-3.04 -1.4,-5.36 -4.04,-6.68 -1.56,-0.8 -4.04,-1.24 -6.8,-1.24 h -14 v 1.88 h 0.72 c 3.24,0 3.6,0.2 3.6,1.88 v 1.16 19.04 1.16 c 0,1.68 -0.36,1.88 -3.6,1.88 h -0.72 v 1.88 h 13.44 v -1.88 h -1.04 c -3.24,0 -3.6,-0.2 -3.6,-1.88 v -1.16 z m 0,-1.88 v -10.24 c 0,-1.84 0.24,-2.04 2.44,-2.04 h 2.56 c 4.16,0 6.12,1.96 6.12,6.2 0,4.12 -2.04,6.08 -6.28,6.08 z"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#ffffff"
+           id="path3369" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 66.728594,117.50535 h 4.52 c 3.6,0 5.48,-0.28 7.08,-1.04 2.84,-1.36 4.44,-3.92 4.44,-7.08 0,-3.04 -1.4,-5.36 -4.04,-6.68 -1.56,-0.8 -4.04,-1.24 -6.8,-1.24 h -14 v 1.88 h 0.72 c 3.24,0 3.6,0.2 3.6,1.88 v 1.16 19.04 1.16 c 0,1.68 -0.36,1.88 -3.6,1.88 h -0.72 v 1.88 h 13.44 v -1.88 h -1.04 c -3.24,0 -3.6,-0.2 -3.6,-1.88 v -1.16 z m 0,-1.88 v -10.24 c 0,-1.84 0.24,-2.04 2.44,-2.04 h 2.56 c 4.16,0 6.12,1.96 6.12,6.2 0,4.12 -2.04,6.08 -6.28,6.08 z"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#ffffff"
+           id="path3371" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 98.647344,100.90535 h -1.68 l -9.2,23.32 c -0.8,2.08 -0.96,2.36 -1.56,3 -0.64,0.76 -1.76,1.24 -2.84,1.24 h -0.16 v 1.88 h 10.6 v -1.88 h -0.8 c -2.16,0 -3.24,-0.76 -3.24,-2.28 0,-0.48 0.12,-1.04 0.36,-1.68 l 1.32,-3.52 h 10.599996 l 2.16,5.36 c 0.24,0.6 0.32,0.88 0.32,1.08 0,0.64 -1,1.04 -2.48,1.04 h -1.68 v 1.88 h 12.4 v -1.88 h -0.56 c -2,0 -2.44,-0.32 -3.36,-2.56 z m -1.96,6.56 4.519996,11.36 h -8.959996 z"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#ffffff"
+           id="path3373" />
+      </g>
     </g>
   </g>
 </svg>

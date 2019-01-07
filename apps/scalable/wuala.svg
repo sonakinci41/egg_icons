@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 128 128"
+   viewBox="0 0 512 512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   width="100%"
-   height="100%"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   width="512"
+   height="512"
    sodipodi:docname="wuala.svg">
   <metadata
      id="metadata61">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,16 +36,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="706"
      id="namedview59"
      showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="45.571649"
-     inkscape:cy="57.901203"
+     inkscape:zoom="0.30729166"
+     inkscape:cx="575.91524"
+     inkscape:cy="313.90669"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     units="px" />
   <defs
      id="defs4">
     <linearGradient
@@ -53,7 +54,7 @@
        x1="1"
        x2="47"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+       gradientTransform="rotate(-90,23.999998,24)">
       <stop
          stop-color="#ea791e"
          stop-opacity="1"
@@ -92,22 +93,31 @@
     </clipPath>
   </defs>
   <g
-     id="g29"
-     transform="matrix(2.6271186,0,0,2.6271186,1.1864407,1.1186441)"
-     style="fill:#f03916">
-    <path
-       d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 z"
-       id="path31"
-       inkscape:connector-curvature="0"
-       style="fill:#f03916;fill-opacity:1" />
-  </g>
-  <g
      id="g33"
-     transform="translate(0,80)" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
-     d="m 18.607031,46.870662 13.874221,0 15.377487,29.727043 16.070161,-31.646278 16.624314,31.904779 14.823341,-29.985544 13.745235,0 L 80.860425,101.52314 64.060343,66.428572 47.235762,101.52314 z"
-     id="rect3782"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccc" />
+     transform="translate(0,591)" />
+  <g
+     id="g878">
+    <path
+       id="path842"
+       d="M 432.91327,56.473987 C 535.10618,145.04857 538.74004,306.17368 441.03007,416.37276 343.3201,526.57184 181.27963,544.1006 79.086723,455.52602 -23.106179,366.95143 -26.740044,205.82632 70.969923,95.627247 168.67989,-14.571828 330.72037,-32.100598 432.91327,56.473987 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#c6262e;fill-opacity:1;stroke-width:11.10955715" />
+    <path
+       id="path845"
+       d="M 511.6355,224.90352 C 510.08412,286.21517 486.47428,349.05813 440.66913,400.71799 342.95916,510.91711 180.91868,528.44584 78.725783,439.87129 30.827153,398.35564 4.4968418,340.92284 0.19385183,280.22881 0.79910183,346.58548 27.117433,410.48218 79.078673,455.51906 181.27161,544.09361 343.31976,526.55619 441.02202,416.36577 490.72697,360.30766 514.02704,291.07481 511.6355,224.90352 Z"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:11.10955715" />
+    <path
+       style="fill:#000000;fill-opacity:0.49019608;stroke:none;stroke-width:3.44695163"
+       d="m 120,185.11559 h 47.8238 l 53.00543,102.46766 55.39307,-109.08319 57.3032,109.97423 51.09534,-103.3587 H 432 L 334.58445,373.5 276.67538,252.53075 218.68186,373.5 Z"
+       id="path872"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="rect3782"
+       d="m 100,165.11559 h 47.8238 l 53.00543,102.46766 55.39307,-109.08319 57.3032,109.97423 51.09534,-103.3587 H 412 L 314.58445,353.5 256.67538,232.53075 198.68186,353.5 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.44695163" />
+  </g>
 </svg>
