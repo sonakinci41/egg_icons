@@ -23,57 +23,57 @@ DialogSizes=16,22,24,32,48,64
 Directories=actions,apps/scalable,categories/start-menu,devices/hardware,emblems/scalable,emblems/small,mimetypes/file-types,places/user-folders,status/im-status,status/panel,status/dialogs
 
 [actions]
-Size=22
+Size=64
 Context=Actions
-MinSize=16
+MinSize=8
 MaxSize=64
 Type=Scalable
 
 [apps/scalable]
 Context=Applications
-Size=64
+Size=512
 MinSize=16
-MaxSize=64
+MaxSize=512
 Type=Scalable
 
 [categories/start-menu]
 Context=Categories
-Size=32
+Size=512
 MinSize=16
-MaxSize=64
+MaxSize=512
 Type=Scalable
 
 [devices/hardware]
 Context=Devices
-Size=64
+Size=512
 MinSize=16
-MaxSize=64
+MaxSize=512
 Type=Scalable
 
 [emblems/scalable]
 Context=Emblems
 Size=16
-MinSize=16
-MaxSize=64
+MinSize=8
+MaxSize=16
 Type=Scalable
 
 [emblems/small]
 Context=Emblems
 Size=8
 MinSize=8
-MaxSize=512
+MaxSize=16
 Type=Scalable
 
 [mimetypes/file-types]
 Context=MimeTypes
-Size=64
+Size=512
 MinSize=16
 MaxSize=512
 Type=Scalable
 
 [places/user-folders]
 Context=Places
-Size=64
+Size=512
 MinSize=16
 MaxSize=512
 Type=Scalable
@@ -94,7 +94,7 @@ Type=Scalable
 
 [status/dialogs]
 Context=Status
-Size=64
+Size=512
 MinSize=16
-MaxSize=64
+MaxSize=512
 Type=Scalable
