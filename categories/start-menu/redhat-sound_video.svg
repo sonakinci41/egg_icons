@@ -142,7 +142,7 @@
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#000000;fill-opacity:0.49019608;stroke-width:11.10955811" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0.49019608;fill-rule:nonzero;stroke:none;stroke-width:0.69333333;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0.49019608;fill-rule:nonzero;stroke:none;stroke-width:0.698a715e;marker:none;enable-background:accumulate"
        d="m 276,120 c -86.15636,0 -156,69.84364 -156,156 0,86.15636 69.84364,156 156,156 86.15636,0 156,-69.84364 156,-156 0,-86.15636 -69.84364,-156 -156,-156 z m -37.28969,98.73635 C 255.23332,218.14934 338.4,265.17432 338.4,276 c 0,11.35222 -91.40437,62.38865 -101.5625,56.7125 -5.07907,-2.83808 -7.61854,-29.77527 -7.61854,-56.7125 0,-1.68358 0.01,-3.36658 0.0298,-5.04427 0.29761,-25.1654 2.82712,-49.00753 7.58875,-51.66823 0.31785,-0.17745 0.66687,-0.41827 1.1375,-0.4875 0.22809,-0.0336 0.47304,-0.0544 0.73532,-0.0636 z"
        id="path865"
        inkscape:connector-curvature="0" />
@@ -150,6 +150,6 @@
        inkscape:connector-curvature="0"
        id="path3897"
        d="m 256,100 c -86.15636,0 -156,69.84364 -156,156 0,86.15636 69.84364,156 156,156 86.15636,0 156,-69.84364 156,-156 0,-86.15636 -69.84364,-156 -156,-156 z m -37.28969,98.73635 C 235.23332,198.14934 318.4,245.17432 318.4,256 c 0,11.35222 -91.40437,62.38865 -101.5625,56.7125 -5.07907,-2.83808 -7.61854,-29.77527 -7.61854,-56.7125 0,-1.68358 0.01,-3.36658 0.0298,-5.04427 0.29761,-25.1654 2.82712,-49.00753 7.58875,-51.66823 0.31785,-0.17745 0.66687,-0.41827 1.1375,-0.4875 0.22809,-0.0336 0.47304,-0.0544 0.73532,-0.0636 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69333333;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.698a715e;marker:none;enable-background:accumulate" />
   </g>
 </svg>
